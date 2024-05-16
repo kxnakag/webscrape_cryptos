@@ -1,0 +1,352 @@
+[
+    {
+        "coin_name": "ordi",
+        "price": "36.99",
+        "rank": "104",
+        "market_cap": "776.73",
+        "website": "ordiscan.com"
+    },
+    {
+        "coin_name": "Wojak Coin",
+        "price": "0.000415",
+        "rank": "576",
+        "market_cap": "28.80",
+        "website": "linktr.ee"
+    },
+    {
+        "coin_name": "piza",
+        "price": "0.503",
+        "rank": "688",
+        "market_cap": "10.56",
+        "website": "btcpizza.io"
+    },
+    {
+        "coin_name": "PEPE",
+        "price": "0.187",
+        "rank": "1,052",
+        "market_cap": "7.86",
+        "website": "ordiscan.com"
+    },
+    {
+        "coin_name": "TCAP BRC",
+        "price": "0.0181",
+        "rank": "1,943",
+        "market_cap": "1.81 billion",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "SATS BRC",
+        "price": "0.0₄0265",
+        "rank": "2,076",
+        "market_cap": "555.92",
+        "website": "ordspace.org"
+    },
+    {
+        "coin_name": "PUPS",
+        "price": "20.12",
+        "rank": "2,335",
+        "market_cap": "156.33",
+        "website": "ordiscan.com"
+    },
+    {
+        "coin_name": "RATS BRC",
+        "price": "0.000130",
+        "rank": "2,392",
+        "market_cap": "129.67",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "WZRD",
+        "price": "4.49",
+        "rank": "2,487",
+        "market_cap": "94.25",
+        "website": "ordiscan.com"
+    },
+    {
+        "coin_name": "TRIO BRC",
+        "price": "1.99",
+        "rank": "2,794",
+        "market_cap": "41.83",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "trac BRC",
+        "price": "1.93",
+        "rank": "2,806",
+        "market_cap": "40.59",
+        "website": "rarity.garden"
+    },
+    {
+        "coin_name": "Orange Crypto BRC",
+        "price": "0.231",
+        "rank": "3,066",
+        "market_cap": "23.08",
+        "website": "orangecrypto.com"
+    },
+    {
+        "coin_name": "PIIN BRC",
+        "price": "0.000228",
+        "rank": "3,075",
+        "market_cap": "22.78",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "ZBIT",
+        "price": "0.752",
+        "rank": "3,276",
+        "market_cap": "15.78",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "TEXO BRC",
+        "price": "0.0242",
+        "rank": "3,427",
+        "market_cap": "12.36",
+        "website": "texo.live"
+    },
+    {
+        "coin_name": "GHSY BRC",
+        "price": "0.363",
+        "rank": "3,450",
+        "market_cap": "12.10",
+        "website": "ghosty.cash"
+    },
+    {
+        "coin_name": "ETGM BRC",
+        "price": "0.0000543",
+        "rank": "3,500",
+        "market_cap": "11.40",
+        "website": "etgm.io"
+    },
+    {
+        "coin_name": "20EX BRC",
+        "price": "0.478",
+        "rank": "3,577",
+        "market_cap": "10.03",
+        "website": "20ex.io"
+    },
+    {
+        "coin_name": "LFG",
+        "price": "0.0228",
+        "rank": "3,609",
+        "market_cap": "9.60",
+        "website": "lfg.cash"
+    },
+    {
+        "coin_name": ".COM BRC",
+        "price": "0.419",
+        "rank": "3,659",
+        "market_cap": "8.81",
+        "website": "brc20.com"
+    },
+    {
+        "coin_name": "AINN",
+        "price": "0.404",
+        "rank": "3,678",
+        "market_cap": "8.48",
+        "website": "ainn.xyz"
+    },
+    {
+        "coin_name": "BTCs BRC",
+        "price": "0.352",
+        "rank": "3,767",
+        "market_cap": "7.39",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "MICE BRC",
+        "price": "0.00668",
+        "rank": "3,836",
+        "market_cap": "6.68",
+        "website": "brc20mice"
+    },
+    {
+        "coin_name": "VOYA BRC",
+        "price": "0.666",
+        "rank": "3,839",
+        "market_cap": "6.66",
+        "website": "merlinswap.org"
+    },
+    {
+        "coin_name": "BIDP BRC",
+        "price": "0.00657",
+        "rank": "3,853",
+        "market_cap": "6.57",
+        "website": "bidprotocol.io"
+    },
+    {
+        "coin_name": "LIGO BRC",
+        "price": "0.0₃0603",
+        "rank": "3,908",
+        "market_cap": "6.03",
+        "website": "ligo.network"
+    },
+    {
+        "coin_name": "BD20 BRC",
+        "price": "0.00576",
+        "rank": "3,937",
+        "market_cap": "5.76",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "Turtsat BRC",
+        "price": "0.00545",
+        "rank": "3,983",
+        "market_cap": "5.45",
+        "website": "turtsat.io"
+    },
+    {
+        "coin_name": "RDEX BRC",
+        "price": "0.0362",
+        "rank": "4,294",
+        "market_cap": "3.62",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "CATS BRC",
+        "price": "0.00165",
+        "rank": "4,323",
+        "market_cap": "3.46",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "O4DX BRC",
+        "price": "0.0341",
+        "rank": "4,335",
+        "market_cap": "3.41",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "Vmpx",
+        "price": "0.0300",
+        "rank": "4,369",
+        "market_cap": "3.26",
+        "website": "vmpx.io"
+    },
+    {
+        "coin_name": "MEME BRC",
+        "price": "32.35",
+        "rank": "4,415",
+        "market_cap": "3.04",
+        "website": "memesonbitcoin.com"
+    },
+    {
+        "coin_name": "CSAS BRC",
+        "price": "0.00303",
+        "rank": "4,418",
+        "market_cap": "3.03",
+        "website": "comsats.io"
+    },
+    {
+        "coin_name": "NOOT",
+        "price": "0.00303",
+        "rank": "4,419",
+        "market_cap": "3.03",
+        "website": "ordiscan.com"
+    },
+    {
+        "coin_name": "insc",
+        "price": "0.135",
+        "rank": "4,473",
+        "market_cap": "2.83",
+        "website": "ordiscan.com"
+    },
+    {
+        "coin_name": "NALS",
+        "price": "0.126",
+        "rank": "4,528",
+        "market_cap": "2.65",
+        "website": "ordiscan.com"
+    },
+    {
+        "coin_name": "DOVI BRC",
+        "price": "0.170",
+        "rank": "4,560",
+        "market_cap": "2.55",
+        "website": "dovil2.com"
+    },
+    {
+        "coin_name": "PLAY BRC",
+        "price": "0.0000117",
+        "rank": "4,587",
+        "market_cap": "2.46",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "1ON8 BRC",
+        "price": "0.268",
+        "rank": "4,616",
+        "market_cap": "2.38",
+        "website": "1on8.io"
+    },
+    {
+        "coin_name": "ROUP BRC",
+        "price": "0.000990",
+        "rank": "4,718",
+        "market_cap": "2.08",
+        "website": "rolluper.xyz"
+    },
+    {
+        "coin_name": "BNSx BRC",
+        "price": "0.0935",
+        "rank": "4,758",
+        "market_cap": "1.96",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "$BMP BRC",
+        "price": "0.00189",
+        "rank": "4,777",
+        "market_cap": "1.89",
+        "website": "unisat.io"
+    },
+    {
+        "coin_name": "ORDS",
+        "price": "0.0889",
+        "rank": "4,787",
+        "market_cap": "1.87",
+        "website": "ordiscan.com"
+    },
+    {
+        "coin_name": "MIMIC SHHANS",
+        "price": "0.0883",
+        "rank": "4,792",
+        "market_cap": "1.85",
+        "website": "mmss.space"
+    },
+    {
+        "coin_name": "BIOP",
+        "price": "0.0867",
+        "rank": "4,804",
+        "market_cap": "1.82",
+        "website": "biop.io"
+    },
+    {
+        "coin_name": "DOMO BRC",
+        "price": "0.0817",
+        "rank": "4,858",
+        "market_cap": "1.72",
+        "website": "ordspace.org"
+    },
+    {
+        "coin_name": "Chamcha",
+        "price": "0.000817",
+        "rank": "4,859",
+        "market_cap": "1.72",
+        "website": "chamcha.io"
+    },
+    {
+        "coin_name": "BISO",
+        "price": "0.00807",
+        "rank": "4,873",
+        "market_cap": "1.70",
+        "website": "bisoswap.com"
+    },
+    {
+        "coin_name": "DEPD BRC",
+        "price": "0.000804",
+        "rank": "4,877",
+        "market_cap": "1.69",
+        "website": "unisat.io"
+    }
+]
